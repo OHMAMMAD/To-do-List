@@ -1,0 +1,35 @@
+
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap);
+@import url('https://fonts.googleapis.com/css2?family=Changa&display=swap');
+
+body {
+  font-family: 'Changa', sans-serif;
+}
+
+.button {
+    background-color: rgb(108, 221, 108);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-size: 1.2em;
+    margin: 4px 2px;
+    border: none;
+    padding: 15px 32px;
+    margin-left: 2em;
+}
+.para {
+  font-weight: bold;
+}
+
+.imp {
+  color: red;
+}
+
+.div {
+  display: flex;
+  justify-content: space-between;
+  width: 80em;
+  margin: .5em .5em .5em .5em;
+}

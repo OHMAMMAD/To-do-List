@@ -1,0 +1,21 @@
+
+
+{
+    "tasks": [
+    {
+        "txt": "doing things",
+        "impStatus": false
+    },
+
+    {
+        "txt":"playing minecraft",
+        "impStatus": false
+    },
+
+    {
+        "txt": "adding that navBar to the freeking code",
+        "impStatus": true
+    }
+]
+}
+
